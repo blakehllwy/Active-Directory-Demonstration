@@ -39,7 +39,7 @@ The point of this project is to demonstrate a basic Active Directory Domain Serv
 - Ubuntu Server 24.04.3 LTS
 
 ## Steps
-<img width="608" height="592" alt="Screenshot 2025-12-11 134017" src="https://github.com/user-attachments/assets/03bcea1f-8cca-4ceb-a041-9c2957c468fe" />
+<img width="543" height="566" alt="usethis" src="https://github.com/user-attachments/assets/e943d7dc-0888-4438-82c0-8b1292196a07" />
 
 *Ref 1: Network Diagram*
 
